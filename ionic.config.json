@@ -1,0 +1,7 @@
+{
+  "name": "FundRisingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

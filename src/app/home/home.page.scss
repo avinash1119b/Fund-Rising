@@ -1,0 +1,21 @@
+ion-button[color="dark"]{
+  text-transform: initial;
+}
+
+ion-content{
+  --background: url("../../assets/icon/dd.jpg") no-repeat center/cover fixed;
+}
+
+ion-card{
+  --background: white;
+  color: black;
+}
+
+ion-button{
+  color: black;
+}
+
+ion-item{
+  --background: white;
+  color: black;
+}
